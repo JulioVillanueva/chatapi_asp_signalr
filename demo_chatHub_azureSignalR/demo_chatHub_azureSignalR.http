@@ -1,0 +1,6 @@
+@demo_chatHub_azureSignalR_HostAddress = http://localhost:5024
+
+GET {{demo_chatHub_azureSignalR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

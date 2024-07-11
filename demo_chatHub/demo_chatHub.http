@@ -1,0 +1,10 @@
+@demo_chatHub_HostAddress = https://localhost:7120
+
+GET {{demo_chatHub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+POST {{demo_chatHub_HostAddress}}/message
+
+###
